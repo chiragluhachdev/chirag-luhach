@@ -9,8 +9,8 @@ const stack = [
 ];
 
 const achievements = [
-  "Secured ₹80,000 startup funding from Manav Rachna University.",
   "Built multiple production-ready SaaS and mobile products for startups, companies, and individuals.",
+  "Secured ₹80,000 startup funding from Manav Rachna University.",
   "Engineered immersive 3D web experiences and high-performance digital interfaces.",
   "Led end-to-end product development from idea, design, development to deployment."
 ];
