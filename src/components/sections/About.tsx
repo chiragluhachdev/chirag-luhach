@@ -10,8 +10,8 @@ const stack = [
 
 const achievements = [
   "Secured ₹80,000 startup funding from Manav Rachna University.",
-  "Successfully published MR BITES and ARK Kidoid on App Store and Google Play Store.",
   "Built multiple production-ready SaaS and mobile products for startups, companies, and individuals.",
+  "Engineered immersive 3D web experiences and high-performance digital interfaces.",
   "Led end-to-end product development from idea, design, development to deployment."
 ];
 
