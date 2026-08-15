@@ -56,25 +56,11 @@ export default function Hero() {
         
         <div 
           ref={textSubRef}
-          className="mt-8 flex flex-col items-center gap-8"
+          className="mt-8 flex gap-6 text-sm md:text-base font-sans tracking-widest uppercase text-white/70"
         >
-          <div className="flex gap-6 text-sm md:text-base font-sans tracking-widest uppercase text-white/70">
-            <span>Creative Developer</span>
-            <span className="w-1 h-1 rounded-full bg-white/50 self-center"></span>
-            <span>Product Builder</span>
-          </div>
-
-          {/*
-          <a
-            href="/chirag_luhach_resume.pdf"
-            download="Chirag_Luhach_Resume.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center justify-center rounded-full border border-white/20 bg-white/5 px-8 py-3.5 text-sm font-medium tracking-wide text-white transition-all duration-500 hover:bg-white hover:text-black uppercase font-sans"
-          >
-            Download Resume
-          </a>
-          */}
+          <span>Creative Developer</span>
+          <span className="w-1 h-1 rounded-full bg-white/50 self-center"></span>
+          <span>Product Builder</span>
         </div>
       </div>
 
